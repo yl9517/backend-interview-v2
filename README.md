@@ -26,4 +26,4 @@
 
 ## 문의 사항
 
-- 과제를 수행하며 궁금한 점이 생기시면 developer@fetching.co.kr로 문의해주세요
+- 과제를 수행하며 궁금한 점이 생기시면 hoseung.choi@fetching.co.kr로 문의해주세요
